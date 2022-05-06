@@ -1,0 +1,15 @@
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.csproj.AssemblyReference.cache
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.GeneratedMSBuildEditorConfig.editorconfig
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.AssemblyInfoInputs.cache
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.AssemblyInfo.cs
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.csproj.CoreCompileInputs.cache
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\bin\Debug\net6.0\basic_core_program.exe
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\bin\Debug\net6.0\basic_core_program.deps.json
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\bin\Debug\net6.0\basic_core_program.runtimeconfig.json
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\bin\Debug\net6.0\basic_core_program.dll
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\bin\Debug\net6.0\basic_core_program.pdb
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.dll
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\refint\basic_core_program.dll
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.pdb
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\basic_core_program.genruntimeconfig.cache
+D:\BridgeLabs Assignment\basic_core_program\basic_core_program\obj\Debug\net6.0\ref\basic_core_program.dll
